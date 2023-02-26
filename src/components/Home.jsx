@@ -10,7 +10,7 @@ const Home = () => {
         <div className='max-w-screen-lg mx-auto flex flex-col
         items-center justify-center h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
-                <h2 className='text-4xl sm:text-7xl sm:mt-48 font-bold
+                <h2 className='text-4xl sm:text-7xl sm:mt-52 font-bold
                 text-white mt-10'>
                     I'm a full Stack Developer</h2>
                 <p className='text-gray-500 py-4 max-w-md'>
@@ -33,7 +33,7 @@ const Home = () => {
             </div>
             <div>
                 <img src={Animi}
-                alt="my picture" 
+                alt="myAnimi" 
                 className=' rounded-3xl mx-auto  w-2/4 md:w-10/12 md:rounded-r-full' />
             </div>
         </div>
