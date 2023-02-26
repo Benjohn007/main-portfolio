@@ -5,7 +5,7 @@ import github from '../asset/portfolio/github.png'
 import javascript from '../asset/portfolio/js.png'
 import Coolreact from '../asset/portfolio/react.png'
 import sql from '../asset/portfolio/Sql.png'
-import CNet from '../asset/portfolio/C#2.jpeg'
+import CNet from '../asset/portfolio/csharp.jpeg'
 import Tailwind from '../asset/portfolio/tailwind.jpeg'
 
 const Experience = () => {
